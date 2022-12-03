@@ -9,6 +9,8 @@ function mayuscula(nombre) {
 function invocarCallback(cb) {
   // Invoca al callback `cb`
   //Tu código:
+  var a = 0; 
+  return a;
 }
 
 function operacionMatematica(n1, n2, cb) {
